@@ -1,4 +1,4 @@
-->#ifndef VOXBLOX_ROS_SEGMENT_SERVER_H_
+#ifndef VOXBLOX_ROS_SEGMENT_SERVER_H_
 #define VOXBLOX_ROS_SEGMENT_SERVER_H_
 
 #include <cloud_segmentation/cloud_segmentation.h>
