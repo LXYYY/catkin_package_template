@@ -1,4 +1,4 @@
-#include "voxblox_ros/segment_server.h"
+#include "template/template.h"
 
 #include <gflags/gflags.h>
 
@@ -10,7 +10,7 @@ int main(int argc, char** argv) {
   ros::NodeHandle nh;
   ros::NodeHandle nh_private("~");
 
-  voxblox::SegmentServer node(nh, nh_private);
+  // node
 
   ros::spin();
   return 0;

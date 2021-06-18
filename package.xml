@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>sblox</name>
+  <name>template</name>
   <version>0.0.1</version>
-  <description>sblox</description>
+  <description>template</description>
 
   <author email="xiangyu002@e.ntu.edu.sg">Mike Xiangyu Liu</author>
 
@@ -14,6 +14,4 @@
   <buildtool_depend>catkin_simple</buildtool_depend>
 
   <depend>voxblox_ros</depend>
-  <depend>tsdf_plusplus</depend>
-  <depend>cloud_segmentation</depend>
 </package>
